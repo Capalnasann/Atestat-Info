@@ -1,0 +1,11 @@
+Cream
+#F0EDE0
+
+Ebony
+#433F30
+
+Red
+#970C10
+
+Gunmetal Gray
+#918E80
